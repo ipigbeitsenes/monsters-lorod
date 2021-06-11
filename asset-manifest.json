@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-lorod/static/css/main.6269da93.chunk.css",
+    "main.js": "/monsters-lorod/static/js/main.54cc5b49.chunk.js",
+    "main.js.map": "/monsters-lorod/static/js/main.54cc5b49.chunk.js.map",
+    "runtime-main.js": "/monsters-lorod/static/js/runtime-main.429cac29.js",
+    "runtime-main.js.map": "/monsters-lorod/static/js/runtime-main.429cac29.js.map",
+    "static/js/2.bf05fc92.chunk.js": "/monsters-lorod/static/js/2.bf05fc92.chunk.js",
+    "static/js/2.bf05fc92.chunk.js.map": "/monsters-lorod/static/js/2.bf05fc92.chunk.js.map",
+    "static/js/3.0adf9739.chunk.js": "/monsters-lorod/static/js/3.0adf9739.chunk.js",
+    "static/js/3.0adf9739.chunk.js.map": "/monsters-lorod/static/js/3.0adf9739.chunk.js.map",
+    "index.html": "/monsters-lorod/index.html",
+    "static/css/main.6269da93.chunk.css.map": "/monsters-lorod/static/css/main.6269da93.chunk.css.map",
+    "static/js/2.bf05fc92.chunk.js.LICENSE.txt": "/monsters-lorod/static/js/2.bf05fc92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.429cac29.js",
+    "static/js/2.bf05fc92.chunk.js",
+    "static/css/main.6269da93.chunk.css",
+    "static/js/main.54cc5b49.chunk.js"
+  ]
+}
